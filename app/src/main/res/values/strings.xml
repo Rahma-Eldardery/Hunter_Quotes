@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Hunter</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Quotes for Gon Freecss -->
+    <string name="gon_quote_1">I’m not a hero. I just do what I think is right.</string>
+    <string name="gon_quote_2">If you’re willing to take a step forward, there’s nothing you can’t do.</string>
+    <string name="gon_quote_3">I don’t care what the world thinks. If I’m going to be the best Hunter, I’ll do it my way.</string>
+    <string name="gon_quote_4">You should cherish your memories, as they are a part of who you are.</string>
+    <string name="gon_quote_5">It’s not about being the strongest. It’s about how you use your strength.</string>
+
+    <!-- Quotes for Killua Zoldyck -->
+    <string name="killua_quote_1">It’s not the way you look. It’s the way you act.</string>
+    <string name="killua_quote_2">No matter how strong I become, I will never be strong enough to protect you.</string>
+    <string name="killua_quote_3">I was born into a family of assassins. No matter what I do, I can’t escape my past.</string>
+    <string name="killua_quote_4">Sometimes the best way to protect someone is to stay away.</string>
+    <string name="killua_quote_5">You can’t change your past, but you can control your future.</string>
+
+    <!-- Quotes for Kurapika -->
+    <string name="kurapika_quote_1">I will not let anyone use my friends for their own purposes.</string>
+    <string name="kurapika_quote_2">If you want to become stronger, you have to be prepared to lose everything.</string>
+    <string name="kurapika_quote_3">I am not just hunting the Scarlet Eyes. I am hunting the criminals who stole them.</string>
+    <string name="kurapika_quote_4">My strength comes from my desire to protect my friends and seek justice.</string>
+    <string name="kurapika_quote_5">I will not rest until my clan’s honor is restored.</string>
+
+    <!-- Quotes for Leorio Paradinight -->
+    <string name="leorio_quote_1">You can’t just take away someone’s dreams. They’ve worked too hard to get where they are.</string>
+    <string name="leorio_quote_2">I’m not doing this for money or fame. I want to become a Hunter to help people.</string>
+    <string name="leorio_quote_3">If you’re going to fight, do it for a good reason. Otherwise, you’re just wasting your time.</string>
+    <string name="leorio_quote_4">Sometimes, the greatest battles are fought with words and actions, not fists.</string>
+    <string name="leorio_quote_5">It’s not about how much you have, but how much you give.</string>
+
+    <!-- Quotes for Hisoka -->
+    <string name="hisoka_quote_1">The more someone tries to impress me, the more I want to see them fail.</string>
+    <string name="hisoka_quote_2">I don’t care about the outcome. I’m only interested in the thrill of the fight.</string>
+    <string name="hisoka_quote_3">You should always be prepared for anything. You never know when danger will strike.</string>
+    <string name="hisoka_quote_4">Life is a game, and I’m always looking for the next challenge.</string>
+    <string name="hisoka_quote_5">A true thrill comes from the unpredictability of a fight.</string>
+
+    <!-- Quotes for Meruem -->
+    <string name="meruem_quote_1">Strength is not just about power. It’s about how you use that power.</string>
+    <string name="meruem_quote_2">I may be a king, but I’m still learning about the world and myself.</string>
+    <string name="meruem_quote_3">The only thing that truly matters is the pursuit of one’s own goals.</string>
+    <string name="meruem_quote_4">Even the strongest need to understand their own humanity.</string>
+    <string name="meruem_quote_5">What we choose to fight for defines who we are.</string>
+
+    <!-- Quotes for Netero -->
+    <string name="netero_quote_1">To defeat a strong enemy, you must be prepared to sacrifice everything.</string>
+    <string name="netero_quote_2">The true strength of a Hunter lies not in their abilities, but in their spirit.</string>
+    <string name="netero_quote_3">It is not enough to be strong. You must also be wise and cunning.</string>
+    <string name="netero_quote_4">The more you know, the more you realize how little you know.</string>
+    <string name="netero_quote_5">Courage is not the absence of fear, but the will to overcome it.</string>
+
+
+    <!-- Quotes for Alluka Zoldyck -->
+    <string name="alluka_quote_1">Family is important, but it’s also important to find your own path.</string>
+    <string name="alluka_quote_2">I may be young, but I have my own strength and will.</string>
+    <string name="alluka_quote_3">You don’t need to prove yourself to anyone but yourself.</string>
+    <string name="alluka_quote_4">Strength comes from believing in yourself, no matter what others say.</string>
+    <string name="alluka_quote_5">Everyone has their own journey, and it’s okay to walk your own path.</string>
+
+    <string-array name="quotes">
+       <item>@string/gon_quote_1</item>
+       <item>@string/gon_quote_2</item>
+        <item>@string/gon_quote_3</item>
+        <item>@string/gon_quote_4</item>
+        <item>@string/gon_quote_5</item>
+        <item>@string/killua_quote_1</item>
+        <item>@string/killua_quote_2</item>
+        <item>@string/killua_quote_3</item>
+        <item>@string/killua_quote_4</item>
+        <item>@string/killua_quote_5</item>
+        <item>@string/kurapika_quote_1</item>
+        <item>@string/kurapika_quote_2</item>
+        <item>@string/kurapika_quote_3</item>
+        <item>@string/kurapika_quote_4</item>
+        <item>@string/kurapika_quote_5</item>
+        <item>@string/leorio_quote_1</item>
+        <item>@string/leorio_quote_2</item>
+        <item>@string/leorio_quote_3</item>
+        <item>@string/leorio_quote_4</item>
+        <item>@string/leorio_quote_5</item>
+        <item>@string/hisoka_quote_1</item>
+        <item>@string/hisoka_quote_2</item>
+        <item>@string/hisoka_quote_3</item>
+        <item>@string/hisoka_quote_4</item>
+        <item>@string/hisoka_quote_5</item>
+        <item>@string/meruem_quote_1</item>
+        <item>@string/meruem_quote_2</item>
+        <item>@string/meruem_quote_3</item>
+        <item>@string/meruem_quote_4</item>
+        <item>@string/meruem_quote_5</item>
+        <item>@string/netero_quote_1</item>
+        <item>@string/netero_quote_2</item>
+        <item>@string/netero_quote_3</item>
+        <item>@string/netero_quote_4</item>
+        <item>@string/netero_quote_5</item>
+        <item>@string/alluka_quote_1</item>
+        <item>@string/alluka_quote_2</item>
+        <item>@string/alluka_quote_3</item>
+        <item>@string/alluka_quote_4</item>
+        <item>@string/alluka_quote_5</item>
+    </string-array>
+</resources>
