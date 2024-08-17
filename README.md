@@ -1,6 +1,6 @@
 # Hunter
 
-Hunter is an Android application designed to manage and display information about characters, quotes, and user login functionality. The app offers a dynamic interface for browsing and interacting with content, making it an engaging experience for users.
+Hunter is an Android application designed to manage and display information about characters, quotes, and user login functionality. The app offers a dynamic interface for browsing and interacting with content.
 
 ## Features
 
